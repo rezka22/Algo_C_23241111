@@ -1,9 +1,42 @@
-<mxfile host="app.diagrams.net" modified="2023-10-25T00:53:04.324Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" version="22.0.6" etag="tp16l7esmrVbtFTe0FaF" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-25T00:59:03.847Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="ACWxhk2D7qNXF0LMEU6S" version="22.0.6" type="github">
   <diagram name="Page-1" id="0nVy_pVrf2ID6dhC01Au">
-    <mxGraphModel>
+    <mxGraphModel dx="954" dy="584" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="ydYovoT-d45fNSwv7cKy-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ydYovoT-d45fNSwv7cKy-1" target="ydYovoT-d45fNSwv7cKy-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ydYovoT-d45fNSwv7cKy-1" value="&lt;b&gt;MULAI&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="30" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ydYovoT-d45fNSwv7cKy-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ydYovoT-d45fNSwv7cKy-2" target="ydYovoT-d45fNSwv7cKy-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ydYovoT-d45fNSwv7cKy-2" value="MASUKAN ALAS" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="345" y="200" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ydYovoT-d45fNSwv7cKy-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ydYovoT-d45fNSwv7cKy-4" target="ydYovoT-d45fNSwv7cKy-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ydYovoT-d45fNSwv7cKy-4" value="MASUKAN TINGGI" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="335" y="340" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ydYovoT-d45fNSwv7cKy-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ydYovoT-d45fNSwv7cKy-6" target="ydYovoT-d45fNSwv7cKy-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ydYovoT-d45fNSwv7cKy-6" value="LUAS=1/2*(ALAS*TINGGI)" style="whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="335" y="470" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ydYovoT-d45fNSwv7cKy-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ydYovoT-d45fNSwv7cKy-8" target="ydYovoT-d45fNSwv7cKy-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ydYovoT-d45fNSwv7cKy-8" value="TAMPIL LUAS SEGITIGA" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="335" y="620" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ydYovoT-d45fNSwv7cKy-10" value="SELESAI" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="365" y="780" width="120" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
